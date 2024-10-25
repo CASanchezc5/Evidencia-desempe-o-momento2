@@ -1,0 +1,20 @@
+.container-card{
+  width: 20%;
+  height: 400px;
+  background-color: #CEDF9F;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+}
+
+.container-card button{
+  width: 40px;
+  height: 20px;
+  margin-bottom: 20px;
+}
+
+.container-card button:nth-child(1){
+  background-color: #789DBC;
+}
+
